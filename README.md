@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Pulkit! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzpulkitzz&color=blue)
